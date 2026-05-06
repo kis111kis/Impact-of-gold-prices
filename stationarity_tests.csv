@@ -1,0 +1,9 @@
+Variable,ADF_pvalue,ADF_Stationary
+Gold_ret,0.0,True
+USD_ret,0.0,True
+Oil_ret,0.0,True
+SP500_ret,0.0,True
+Vix_ret,0.0,True
+INT_ret,0.0,True
+EPU_ret,0.0,True
+Index_Return,0.0,True
